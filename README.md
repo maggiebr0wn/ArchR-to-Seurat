@@ -5,7 +5,7 @@ A tool which converts an ArchR object to Seurat object.
 
 To run:
 
-    Rscript ./archR2seurat.R <archr_project_path>
+    Rscript ./archR2seurat.R <archR_project_path>
 
 Written for an ArchR object meeting the following criteria:
 
